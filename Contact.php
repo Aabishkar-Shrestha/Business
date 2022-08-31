@@ -1,0 +1,12 @@
+<?php 
+include("module/header.php");
+?>
+<?php 
+include("module/navbar.php");
+?>
+<?php
+include("about/contact.php");
+?>
+<?php
+include("module/footer.php");
+?>
